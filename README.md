@@ -1,7 +1,7 @@
 
   
 # 💫 About Me:
-Hello! My name is Karthik Acharya & creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.
+Hello! My name is Karthik Acharya, and creating things that live on the internet is my passion. I am a passionate developer 👨‍💻 with strong administrative skills 🗂️, a keen attention to detail 🔍, and the ability to write efficient code 💻. I specialize in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.
 
 Contact me: 📧 karthik.ach2608@gmail.com  <br/>
 
