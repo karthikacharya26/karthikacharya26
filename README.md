@@ -4,6 +4,7 @@
 Hello! I'm Karthik Acharya, and I'm passionate about creating things that live on the internet. As a dedicated developer, I have strong administrative skills, a keen eye for detail, and the ability to write efficient code. I specialize in designing pixel-perfect visuals and implementing responsive layouts to deliver seamless and visually appealing websites.
 
 LinkedIn : https://www.linkedin.com/in/karthik-acharya-881388134/
+
 Contact me: 📧 karthik.ach2608@gmail.com  <br/>
 
 
